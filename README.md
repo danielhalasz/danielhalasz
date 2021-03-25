@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ..
+- 🌱 I’m currently learning HTML, CSS, JS.
+- - ⚡ Fun fact: I am a photographer.
 
 
 <!--
