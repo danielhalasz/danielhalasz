@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning HTML, CSS, JS.
-- - ⚡ Fun fact: I am a photographer.
-
+- ⚡ Fun fact: I am a photographer.
 
 <!--
 **danielhalasz/danielhalasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
