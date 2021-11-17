@@ -3,7 +3,7 @@
 ## Hi there, I am Daniel
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark&margin-w=15&margin-h=15&column=7)
-![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=onedark&layout=compact&langs_count=15&card_width=810)
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhalasz&theme=onedark&layout=compact&langs_count=15&card_width=810)
 
 - 🔭 I have been working with these languages and tools in 2021:  
 
