@@ -22,6 +22,10 @@
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/danielhalaszphotography)
 - ⚡ Fun fact: I am an artist & photographer
 
+## 📚 Study Roadmap 
+
+**Primary**: AWS, Azure, GCP, CI/CD pipelines, build tools, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, Python, Playwright, Selenium, Puppeteer, Cypress
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhalasz&show_icons=true&theme=onedark&width=810)
 
 <!-- ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=danielhalasz&theme=onedark)
