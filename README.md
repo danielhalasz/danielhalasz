@@ -24,7 +24,7 @@
 
 ## 📚 Study Roadmap 
 
-**Primary**: AWS, Azure, GCP, CI/CD pipelines, build tools, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, Python, Playwright, Selenium, Puppeteer, Cypress
+AWS, Azure, GCP, CI/CD pipelines, build tools, data structures & algorithms, DevOps, DevSecOps, Docker, GraphQL, Kubernetes, Linux, Machine Learning, Microservices, networking in general, NLP, Python, Playwright, Selenium, Puppeteer, Cypress
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhalasz&show_icons=true&theme=onedark&width=810)
 
