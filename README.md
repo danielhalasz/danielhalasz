@@ -12,9 +12,10 @@
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) -->
+![sqlite](https://img.shields.io/badge/SQLite-%234ea94b.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 - 🔭 I’m learning statistical analysis for data science while brushing up on Python
-- 🏫 I'm studying Python for Data Science at Harvard University's Extension School 
+- 🏫 I'm studying Python for Data Science at X University's Extension School 
 - 👯 I’m looking to collaborate on projects with JavaScript
 - 🤔 I’m looking for help with system-level programming for ARMv8 64-bit architecture
 - 💬 Ask me about JavaScript and NodeJS education resources
