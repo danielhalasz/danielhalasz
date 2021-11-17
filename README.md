@@ -11,7 +11,7 @@
 ![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-(https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark)
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark&margin-w=15&margin-h=15&column=7)
 
 - ⚡ Fun fact: I am an artist & photographer.
 
