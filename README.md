@@ -2,9 +2,9 @@
 
 ## Hi there, I am Daniel
 
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark&margin-w=15&margin-h=15&column=7)
-
 ## 👨‍💻 The latest about me 
+
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark&margin-w=15&margin-h=15&column=7)
 
 - 🔭 I'm learning full-stack development at HackYourFuture Belgium:  
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
