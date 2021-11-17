@@ -17,7 +17,7 @@
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 - 🏫 I'm doing research at Moholy-Nagy University of Art and Design's Doctorate School 
 - 👯 I’m looking to collaborate on projects with JavaScript
-- 🤔 I’m looking for help with system-level programming for ARMv8 64-bit architecture
+- 🤔 I’m looking for help with system-level programming
 - 💬 Ask me about JavaScript and NodeJS education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/danielhalaszphotography)
 - ⚡ Fun fact: I am an artist & photographer
