@@ -15,8 +15,7 @@
 ![sqlite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-- 🔭 I’m learning statistical analysis for data science while brushing up on Python
-- 🏫 I'm studying Python for Data Science at X University's Extension School 
+- 🏫 I'm doing research at Moholy-Nagy University of Art and Design's Doctorate School 
 - 👯 I’m looking to collaborate on projects with JavaScript
 - 🤔 I’m looking for help with system-level programming for ARMv8 64-bit architecture
 - 💬 Ask me about JavaScript and NodeJS education resources
