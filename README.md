@@ -1,6 +1,9 @@
 #
 
-## Hi there 👋
+## Hi there, I am Daniel
+
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark&margin-w=15&margin-h=15&column=7)
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johannlilly&theme=onedark&layout=compact&langs_count=15&card_width=810)
 
 - 🔭 I have been working with these languages and tools in 2021:  
 
@@ -11,7 +14,6 @@
 ![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark&margin-w=15&margin-h=15&column=7)
 
 - ⚡ Fun fact: I am an artist & photographer.
 
