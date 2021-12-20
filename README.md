@@ -16,6 +16,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 - 🏫 I'm doing research at Moholy-Nagy University of Art and Design's Doctorate School 
 - 👯 I’m looking to collaborate on projects with JavaScript
 - 🤔 I’m looking for help with system-level programming
