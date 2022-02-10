@@ -6,7 +6,7 @@
 
 ## 👨‍💻 The latest about me 
 
-- 🔭 I'm learning full-stack development at HackYourFuture Belgium:  
+- 🔭 I studied full-stack development at HackYourFuture Belgium, where currently I am an Educational Officer.  
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![expressjs](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
