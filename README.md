@@ -7,7 +7,7 @@
 ## 👨‍💻 The latest about me 
 
 - 🔭 I studied full-stack development at HackYourFuture Belgium, where currently I am an Educational Officer.  
-![react](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![expressjs](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
@@ -21,6 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 - 🏫 I'm doing research at Moholy-Nagy University of Art and Design's Doctorate School 
 - 👯 I’m looking to collaborate on projects with JavaScript
 - 🤔 I’m looking for help with system-level programming
