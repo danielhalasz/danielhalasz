@@ -35,9 +35,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhalasz&show_icons=true&theme=onedark&width=810)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danielhalasz&theme=onedark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=danielhalasz&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhalasz&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhalasz&theme=onedark)
 
 ## 📚 Study Roadmap 
 
