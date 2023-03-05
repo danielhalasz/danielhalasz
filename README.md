@@ -31,16 +31,18 @@
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/danielhalaszphotography)
 - ⚡ Fun fact: I am an artist & photographer
 
+# GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhalasz&show_icons=true&theme=onedark&width=810)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danielhalasz&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhalasz&theme=onedark)
+
 ## 📚 Study Roadmap 
 
 AWS, Azure, GCP, Astro, data structures & algorithms, Playwright, Puppeteer, P5.js
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhalasz&show_icons=true&theme=onedark&width=810)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danielhalasz&theme=onedark)](https://git.io/streak-stats)
-
-<!-- ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=danielhalasz&theme=onedark)
- -->
 <!--
 **danielhalasz/danielhalasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
