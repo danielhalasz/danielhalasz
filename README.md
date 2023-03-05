@@ -35,9 +35,7 @@ AWS, Azure, GCP, Astro, data structures & algorithms, Playwright, Puppeteer, P5.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhalasz&show_icons=true&theme=onedark&width=810)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danielhalasz)](https://git.io/streak-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielhalasz)](https://github.com/danielhalasz/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danielhalasz)](https://git.io/streak-stats&theme=dark)
 
 <!-- ![GitHub streak stats](http://github-readme-streak-stats.herokuapp.com?user=danielhalasz&theme=onedark)
  -->
