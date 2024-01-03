@@ -2,7 +2,9 @@
 
 ## Hi there, I am Daniel
 
-[comment]: <> (![GitHub trophy](https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark&margin-w=15&margin-h=15&column=7))
+<!---
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=danielhalasz&theme=onedark&margin-w=15&margin-h=15&column=7)
+-->
 
 ## 👨‍💻 The latest about me 
 
