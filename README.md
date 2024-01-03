@@ -9,7 +9,8 @@
 ## 👨‍💻 The latest about me 
 
 - 🔭 I studied full-stack development at HackYourFuture Belgium, where I later worked as an Educational Officer. 
--  I have experience with JavaScript, React/Vue/Astro frameworks, Node/Express backends with JWT authorization & authentication, SQL/MongoDB databases, Headless CMS (Strapi & WordPress), Vercel/Netlify/Heroku deployment.
+-  I have experience with JavaScript, React/Vue/Astro frameworks, Node/Express backends, JWT authorization & authentication, SQL/MongoDB databases, Headless CMS (Strapi & WordPress), Vercel/Netlify/Heroku deployment.
+-  
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
