@@ -17,6 +17,7 @@
 - 💬 Ask me about JavaScript and NodeJS education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/danielhalaszphotography)
 - ⚡ Fun fact: I am an artist & photographer & lecturer
+- 
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
