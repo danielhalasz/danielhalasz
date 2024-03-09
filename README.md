@@ -8,7 +8,7 @@
 
 ## 👨‍💻 The latest about me 
 
-- 🔭 I studied full-stack development at HackYourFuture Belgium, where I later worked as an Educational Officer. 
+- 🔭 I studied full-stack development at HackYourFuture Belgium, where I currently help out as Educational Coordinator. 
 -  I have experience with JavaScript, React/Vue/Astro frameworks, Node/Express backends, JWT authorization & authentication, SQL/MongoDB databases, Headless CMS (Strapi & WordPress), Vercel/Netlify/Heroku deployment.
 
 - 🏫 I'm doing research at Moholy-Nagy University of Art and Design's & KU Leuven's Doctorate School 
@@ -46,7 +46,7 @@
 
 ## 📚 Study Roadmap 
 
-AWS, Azure, GCP, Astro, data structures & algorithms, Next, Playwright, Puppeteer, P5.js
+Docker, AWS, Azure, GCP, Next, Playwright, Puppeteer, P5.js, PixiJS
 
 <!--
 **danielhalasz/danielhalasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
