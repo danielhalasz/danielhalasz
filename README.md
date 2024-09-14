@@ -13,7 +13,6 @@
 
 - 🏫 I'm doing research at Moholy-Nagy University of Art and Design's & KU Leuven's Doctorate School 
 - 👯 I’m looking to collaborate on projects with JavaScript
-- 🤔 I’m looking for help with system-level programming
 - 💬 Ask me about JavaScript and NodeJS education resources
 - 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/danielhalaszphotography)
 - ⚡ Fun fact: I am an artist & photographer & lecturer
@@ -46,7 +45,7 @@
 
 ## 📚 Study Roadmap 
 
-Docker, AWS, Azure, GCP, Next, Playwright, Puppeteer, P5.js, PixiJS
+Playwright, Puppeteer, P5.js, PixiJS
 
 <!--
 **danielhalasz/danielhalasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
